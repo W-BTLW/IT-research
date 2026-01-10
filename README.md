@@ -5,4 +5,4 @@
 | # 3  |             e.preventDefault() 와 e.stopPropagation()                    | 조현식 | 2025.11.11 | [IT Research-3](https://github.com/W-BTLW/IT-research/blob/main/Contents/ITResearch-251111-3.md)  | 
 | # 4  |            JAVA와 Kotlin                 | 오혜린 | 2025.12.09 | [IT Research-4](https://github.com/W-BTLW/IT-research/blob/main/Contents/ITResearch-251204-4.md) |
 | # 5  |                Inbound와 Outbound                | 윤동현 | 2025.12.09 | [IT Research-5](https://github.com/W-BTLW/IT-research/blob/main/Contents/ITResearch-251209-ydh.md) |
-| # 6  |   스프링 IoC와 DI | 스프링 생명주기 | @Autowired와 getBean() | 오혜린 | 2026.01.13 | [IT Research-6](https://github.com/W-BTLW/IT-research/blob/main/Contents/ITResearch-260113-ohr.md) |
+| # 6  |   스프링 IoC와 DI, 스프링 생명주기, @Autowired와 getBean() | 오혜린 | 2026.01.13 | [IT Research-6](https://github.com/W-BTLW/IT-research/blob/main/Contents/ITResearch-260113-ohr.md) |
