@@ -48,11 +48,4 @@
 └─ 버퍼링 발생하지만 효율적 자원 사용
 
 ### 동작 예시
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/G7n8thqwO2c" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 https://www.youtube.com/watch?v=G7n8thqwO2c
