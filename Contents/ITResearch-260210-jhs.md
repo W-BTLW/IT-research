@@ -63,8 +63,8 @@ encodeURIComponent
 ### 예제
 
 ```javascript
-encodeURI("https://example.com/search?q=아이폰 케이스")
-// https://example.com/search?q=%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%BC%80%EC%9D%B4%EC%8A%A4
+encodeURI("https://example.com/search?q=아이폰&케이스")
+// https://example.com/search?q=%EC%95%84%EC%9D%B4%ED%8F%B0 & %EC%BC%80%EC%9D%B4%EC%8A%A4
 
 encodeURIComponent("아이폰&케이스")
 // %EC%95%84%EC%9D%B4%ED%8F%B0%26%EC%BC%80%EC%9D%B4%EC%8A%A4
