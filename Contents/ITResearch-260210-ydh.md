@@ -27,3 +27,6 @@
 ### 서버 응답 헤더 예시
 ```http
 Set-Cookie: access_token=abc12345; HttpOnly; Secure; SameSite=Lax; Path=/;
+- HttpOnly: JS 접근 차단
+- Secure: HTTPS 연결에서만 쿠키 전송
+- SameSite: CSRF 공격 방지
